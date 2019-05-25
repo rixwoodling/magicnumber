@@ -1,4 +1,8 @@
-# coding: utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Magic Number v0.9 / 2019 rixwoodling.ninja
+# creativecommons.org/licenses/BY-NC-ND/4.0
+# .........................................
 
 import random
 	
